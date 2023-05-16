@@ -1,6 +1,6 @@
 package me.dio.creditapplicationsystem.service.impl
 
-import me.dio.creditapplicationsystem.CreditRepository
+import me.dio.creditapplicationsystem.repository.CreditRepository
 import me.dio.creditapplicationsystem.entity.Credit
 import me.dio.creditapplicationsystem.service.ICreditService
 import org.springframework.stereotype.Service
